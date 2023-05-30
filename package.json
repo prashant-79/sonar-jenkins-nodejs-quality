@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "npm run"
-    "sonar-scanner": "sonar-scanner",
+    "test": "npm run",
+    "sonar-scanner": "sonar-scanner"
   },
   "author": "",
   "license": "ISC",
