@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node index.js",
     "test": "npm run",
-    "sonar-scanner": "sonar-scanner"
+    "sonar-scanner": "sonar-scanner",
+    "build": "echo 'No build step required'"
   },
   "author": "",
   "license": "ISC",
